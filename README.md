@@ -6,6 +6,8 @@ LLM: Large Language Model
 
 NLP: Natural language processing
 
+RAG: Retrieval Augmented Generation
+
 TTS: Text-to-speech
 
 STT: Speech-to-text
